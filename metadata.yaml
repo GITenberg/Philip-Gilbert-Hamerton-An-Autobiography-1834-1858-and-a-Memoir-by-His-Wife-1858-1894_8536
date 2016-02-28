@@ -1,0 +1,34 @@
+_repo: Philip-Gilbert-Hamerton-An-Autobiography-1834-1858-and-a-Memoir-by-His-Wife-1858-1894_8536
+creator:
+  authors:
+  - agent_name: Hamerton, Philip Gilbert
+    alias: Hamerton, P. G. (Philip Gilbert)
+    birthdate: 1834
+    deathdate: 1894
+    gutenberg_agent_id: '2787'
+    url: http://www.gutenberg.org/2009/agents/2787
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Gilbert_Hamerton
+  - agent_name: Hamerton, Eugénie
+    aliases:
+    - Gindriez, Eugénie
+    - Hamerton, Eugenie
+    birthdate: 1838
+    gutenberg_agent_id: '6310'
+    url: http://www.gutenberg.org/2009/agents/6310
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hamerton, Philip Gilbert, 1834-1894'
+- !lcc 'N'
+- !lcsh 'Art critics -- Great Britain -- Biography'
+title: 'Philip Gilbert Hamerton
+
+  An Autobiography, 1834-1858, and a Memoir by His Wife, 1858-1894'
+url: http://www.gutenberg.org/ebooks/8536
