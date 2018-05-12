@@ -1,4 +1,8 @@
 _repo: Philip-Gilbert-Hamerton-An-Autobiography-1834-1858-and-a-Memoir-by-His-Wife-1858-1894_8536
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Hamerton, Philip Gilbert
@@ -16,6 +20,8 @@ creator:
     gutenberg_agent_id: '6310'
     url: http://www.gutenberg.org/2009/agents/6310
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8536#Philip-Gilbert-Hamerton-An-Autobiography-1834-1858-and-a-Memoir-by-His-Wife-1858-1894
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
